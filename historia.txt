@@ -3,3 +3,5 @@ Inicio de la historia.
 Aparece el héroe.
 
 El héroe encuentra un mapa.
+
+El héroe inicia el viaje.
